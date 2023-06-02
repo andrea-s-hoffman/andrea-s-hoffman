@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Andrea, a Full-Stack Instructor @ [Grand Circus](https://www.grandcircus.co/?utm_source=facebook&utm_medium=social&aff=facebookorganic) with a curriculum that focuses on the MERN Stack (MongoDB, Express, React, and Node.js).
+I'm Andrea, a Full-Stack Instructor @ [Grand Circus](https://www.grandcircus.co/?utm_source=facebook&utm_medium=social&aff=facebookorganic), teaching a curriculum that focuses on the MERN Stack (MongoDB, Express, React, and Node.js).
 
 My background is actually in Graphic Design! After recieving my BFA in Graphic Design from Western Michigan University, I worked for 7 years for various enterprises and freelance clients.
 
