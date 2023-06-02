@@ -3,7 +3,7 @@ I'm Andrea, a Full-Stack Instructor @ [Grand Circus](https://www.grandcircus.co/
 
 My background is actually in Graphic Design! After recieving my BFA in Graphic Design from Western Michigan University, I worked for 7 years for various enterprises and freelance clients.
 
-Now, I'm taking my love for problem-solving to the next level by adding JavaScript and more to my website-creating-skills. And not only that, but I get to teach students who were once in my place, in hopes to advance their careers into the world of tech.
+Now, I'm taking my love for problem-solving to the next level by adding JavaScript, and more, to my website-creating skills. And not only that, but I get to teach students who were once in my place, in hopes to advance their careers into the world of tech.
 
 A little more about me:
 - 🔭 I’m currently working on my first React Native project!
