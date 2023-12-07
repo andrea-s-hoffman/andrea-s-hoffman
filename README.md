@@ -9,7 +9,6 @@ A little more about me:
 - 🔭 I’m currently working on my first React Native project!
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: <andrea.z.hoffman@gmail.com>
-- 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I used to live in Portand, OR!
 
 <!--
